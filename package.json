@@ -1,0 +1,18 @@
+{
+  "name": "anindita-manojit-wedding",
+  "version": "1.0.0",
+  "description": "Bengali Wedding Invitation Website for Anindita & Manojit",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "wedding",
+    "invitation",
+    "bengali",
+    "glassmorphism"
+  ],
+  "author": "Manojit & Anindita",
+  "license": "ISC"
+}
